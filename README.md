@@ -1,12 +1,14 @@
-### Merhaba ben İlyas! 👋
+### Hi there, I'm İlyas! 👋
 
-Karadeniz Teknik Üniversitesi'nde İstatistik ve Bilgisayar Bilimleri öğrencisiyim. Backend geliştirme ve veri odaklı teknolojiler üzerine çalışıyorum.
+I graduated from Karadeniz Technical University, Department of Statistics and Computer Sciences. I am currently targeting professional levels on the Full-Stack Developer path.
 
-* 🔭 Şu sıralar finansal tahminleme ve zaman serileri üzerine bitirme tezi projemle ilgileniyorum.
-* 💻 Backend teknolojileri (Node.js, PHP, PostgreSQL vb.) ve programlama dilleriyle projeler geliştiriyorum.
+* 🚀 Successfully completed my graduation thesis on financial forecasting and time series analysis.
+* 💻 Building robust projects using backend technologies (Node.js, PHP, PostgreSQL, etc.) and various programming languages.
+* 🤖 Continuously following and implementing emerging artificial intelligence technologies.
+* 📚 **Languages:** Turkish (Native), English (Technical Documentation Reading / Proficiency)
 
-#### 🛠️ Kullandığım Teknolojiler
-* **Diller:** JavaScript, PHP, C++, C#, Python, R, SQL
-* **Veritabanları & Araçlar:** PostgreSQL, Git, Selenium
+#### 🛠️ Tech Stack
+* **Languages:** JavaScript, PHP, C++, C#, Python, R, SQL
+* **Databases & Tools:** PostgreSQL, Git, Selenium
 
 ---
