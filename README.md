@@ -2,7 +2,6 @@
 
 I graduated from Karadeniz Technical University, Department of Statistics and Computer Sciences. I am currently targeting professional levels on the Full-Stack Developer path.
 
-* 🚀 Successfully completed my graduation thesis on financial forecasting and time series analysis.
 * 💻 Building robust projects using backend technologies (Node.js, PHP, PostgreSQL, etc.) and various programming languages.
 * 🤖 Continuously following and implementing emerging artificial intelligence technologies.
 * 📚 **Languages:** Turkish (Native), English (Technical Documentation Reading / Proficiency)
